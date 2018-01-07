@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Put your app ebay prd ID here
+=======
+Put your prd ebay appid here
+>>>>>>> parent of 52c2b51... gitignore
