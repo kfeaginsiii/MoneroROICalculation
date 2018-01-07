@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+Jupyter files/Data files/EbaySearchAppid.txt
